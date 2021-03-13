@@ -1,5 +1,5 @@
 # SISTEM INFORMASI PERPUSTAKAAN
-Insertion Sort &amp; Comb Sort
+DPPL &amp; SKPL
 
 NIM : 
 - Daniel Septyadi               (1301180009)
